@@ -1,0 +1,44 @@
+
+.h1{
+	text-align:center;
+	color: white;
+	font-size: 50px;
+}
+#pro{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+.img1{
+    
+   height: 300px;
+   width: 441.6px;
+
+}
+.back1{
+
+	background-color: black;
+}
+div{
+	width: 100%;
+	background-color: black;
+}
+
+.h2{
+	color: white;
+}
+
+.nav{
+	color: white;
+	text-align: right;
+}
+.font{
+
+	font-size: 20px;
+}
+.blue{
+
+	color: off white;
+}
+
+
