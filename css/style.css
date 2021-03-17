@@ -24,21 +24,49 @@ div{
 	background-color: black;
 }
 
-.h2{
-	color: white;
-}
-
-.nav{
-	color: white;
-	text-align: right;
-}
 .font{
 
-	font-size: 20px;
+	font-size: 18px;
+
 }
 .blue{
 
 	color: off white;
 }
+.right{
+	display: inline-block;
+	margin-left: 1000px;
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+	margin-top: 15px;
+
+}
+.rightt{
+	text-decoration: none; 
+	margin-left: 30px; 
+	color: white; 
+	font-size: 25px;
+}
+
+.about{
+	text-align: center;
+}
+
+.margin{
+
+	margin-left: 585px;
+	display: inline-block;
+	text-decoration: none;
+}
+.marginn{
+  margin-left: 5px;
+  display: inline-block;
+  text-decoration: none;
+}
 
 
+.prog{
+
+	margin-left: 400px;
+}
